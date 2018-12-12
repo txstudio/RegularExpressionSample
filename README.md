@@ -1,1 +1,7 @@
-# RegularExpressionSample
+# 使用 Regex 的範例程式碼
+
+請注意，此內容主要為程式碼筆記
+
+若要找教學請前往其他地方
+
+謝謝
